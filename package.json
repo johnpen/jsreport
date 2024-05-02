@@ -2,6 +2,9 @@
   "name": "jsreport",
   "private": true,
   "description": "javascript based business reporting",
+  "engines" : {
+    "node" : 18.x"
+  },
   "keywords": [
     "report",
     "business",
