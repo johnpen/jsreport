@@ -3,7 +3,7 @@
   "private": true,
   "description": "javascript based business reporting",
   "engines" : {
-    "node" : "20.x",
+    "node" : "22.x",
     "npm" : "9.5.0"
   },
   "keywords": [
